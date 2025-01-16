@@ -1,0 +1,4 @@
+The constant term (c) for test case 1 is: 3
+The constant term (c) for test case 2 is: 79836264050688
+
+Outliers found: [ { x: 10, y: 220003896831595300000 } ]
